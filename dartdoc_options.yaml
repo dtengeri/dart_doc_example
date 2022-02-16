@@ -1,0 +1,4 @@
+dartdoc:
+  categories:
+    "My Cool Category":
+      markdown: doc/my_cool_category.md

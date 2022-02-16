@@ -20,9 +20,9 @@ class MyAwesomeFeature {
   /// This will be the title of our feature.
   final String title;
 
-  /// Optional sub title, to better express ourself.
+  /// Optional subtitle, to better express ourselves.
   final String? subTitle;
 
-  /// This methid is so cool, it works with the [title] and makes it super cool.
+  /// This method is so cool, it works with the [title] and makes it super cool.
   void doSomeCoolThings() {}
 }
